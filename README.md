@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an MIS.<br>I am self-taught Software Engineer.<br>I'm currently learning full-stack development.
+🔭 I'm currently working on an MIS.<br>🌱 I'm currently learning full-stack development.<br>⚡ I am self-taught Software Engineer.
 
 
 ## 🌐 Socials:
